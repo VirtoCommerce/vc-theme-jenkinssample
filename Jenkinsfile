@@ -1,3 +1,4 @@
 #!groovy
-virtoThemeTest {}
-virtoThemeTest.storeName = "Test"
+virtoThemeTest {
+    storeName = "Test"
+}
