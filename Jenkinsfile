@@ -1,4 +1,4 @@
 #!groovy
 virtoThemeTest {
-    storeName = "Test"
+    sampleStore = "Test"
 }
