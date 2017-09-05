@@ -24,7 +24,7 @@ _Default theme_ for VirtoCommerce Storefront used by _Electronics_ sample store.
     mklink /d "C:\vc-platform\VirtoCommerce.Platform.Web\App_Data\cms-content\Themes\Electronics\default" "C:\vc-theme-default"
     ```
     (where **C:\vc-platform\VirtoCommerce.Platform.Web\App_Data\cms-content** is path to CMS content storage configured at platform & storefront deployment steps, **'Electronics'** is your store name and **'C:\vc-theme-default'** is path to your theme repo).
-4. Open theme folder in your IDE
+4. Open theme folder in your IDE:
     1. In Visual Studio (including 2017) go to  **File** → **Open** → **Website**
     2. In Visual Studio Code, go to **File** → **Open** → **Folder**
     3. Select **C:\vc-theme-default** (where **C:\vc-theme-default** is path to folder where you want to clone repo) and open it.
