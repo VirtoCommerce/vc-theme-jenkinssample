@@ -1,2 +1,2 @@
 #!groovy
-virtoTheme {}
+virtoThemeTest {}
