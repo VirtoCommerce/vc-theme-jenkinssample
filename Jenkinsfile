@@ -1,3 +1,3 @@
 #!groovy
-def storeName = "Test"
 virtoThemeTest {}
+virtoThemeTest.storeName = "Test"
