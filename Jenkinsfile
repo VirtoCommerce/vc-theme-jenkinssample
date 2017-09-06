@@ -1,4 +1,2 @@
 #!groovy
-virtoThemeTest {
-    sampleStore = "Test"
-}
+virtoTestFail {}
