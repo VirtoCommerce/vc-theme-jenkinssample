@@ -1,7 +1,7 @@
 # Default theme for VirtoCommerce Storefront
 
 _Default theme_ for VirtoCommerce Storefront used by _Electronics_ sample store. It includes the largest number of features and support latest updates of Storefront so it always stay actual.
-
+  
 ![Default theme UI](https://user-images.githubusercontent.com/6369252/29847173-c7be93e6-8d33-11e7-915f-181c764a580d.png)
 
 *Main article: [theme development on virtocommerce.com/docs](https://virtocommerce.com/docs/vc2devguide/working-with-storefront/theme-development)*
